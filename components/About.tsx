@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-const techBadges = ["JavaScript", "Node.js", "Docker", "Kubernetes", "AWS", "MongoDB"];
+const techBadges = ["React js", "Node.js", "Fast Api", "MongoDB", "PostgreSQL", "AWS", "Github Actions"];
 
 export default function About() {
   return (

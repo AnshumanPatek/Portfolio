@@ -43,7 +43,7 @@ export default function Sidebar() {
             <div className="absolute bottom-0 right-0 w-3.5 h-3.5 bg-green-500 rounded-full border-2 border-dark-card"></div>
           </div>
           <div className="flex-1">
-            <span className="text-base font-semibold block text-white">Anshuman</span>
+            <span className="text-base font-semibold block text-white">Anshuman Patek</span>
             <span className="text-xs text-gray-400">Full Stack Developer</span>
           </div>
         </motion.div>

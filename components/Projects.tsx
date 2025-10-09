@@ -18,14 +18,14 @@ const projectsData = [
     tags: ["Next.js", "Maps API", "PostgreSQL"],
     gradient: "from-green-500 to-emerald-500",
     link: "https://patnametroroute.com/",
-    github: "#",
+    // github: "#",
   },
   {
     title: "Blogify",
     description: "A modern blogging platform for writers to share their stories and ideas.",
     tags: ["JavaScript", "EJS", "Express"],
     gradient: "from-purple-500 to-pink-500",
-    link: "#",
+    // link: "#",
     github: "https://github.com/AnshumanPatek/Blogify",
   },
 ];
