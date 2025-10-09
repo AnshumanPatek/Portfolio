@@ -152,7 +152,7 @@ export default function Contact() {
             className="mt-8 pt-8 border-t border-gray-800 text-center"
           >
             <p className="text-sm text-gray-500 mb-4">
-              Let's build something amazing together! Feel free to reach out at{" "}
+              Let&apos;s build something amazing together! Feel free to reach out at{" "}
               <a href="mailto:AnshumanPatek369@gmail.com" className="text-primary hover:underline">
                 AnshumanPatek369@gmail.com
               </a>
