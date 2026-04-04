@@ -288,7 +288,7 @@ export function Portfolio() {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="relative mb-8 h-52 w-52 shrink-0 overflow-hidden rounded-full bg-gray-100 grayscale transition-[filter] duration-500 ease-out hover:grayscale-0 sm:h-56 sm:w-56"
+          className="relative mb-8 h-56 w-56 shrink-0 origin-center overflow-hidden rounded-full bg-gray-100 grayscale transition-[filter,transform] duration-500 ease-out hover:scale-110 hover:grayscale-0 sm:h-60 sm:w-60"
         >
           <Image
             src="/profile.jpg"
@@ -296,7 +296,7 @@ export function Portfolio() {
             width={747}
             height={1024}
             className="h-full w-full object-cover object-[center_22%]"
-            sizes="(max-width: 640px) 208px, 224px"
+            sizes="(max-width: 640px) 280px, 300px"
             priority
           />
         </motion.div>
