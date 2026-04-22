@@ -100,6 +100,7 @@ const EXPERIENCE: Experience[] = [
   {
     title: "Full Stack Developer",
     company: "PeerHire Technologies",
+    companyUrl: "https://peerhire.in/",
     location: "Remote",
     period: "MAY 2025 — NOV 2025",
     bullets: [
