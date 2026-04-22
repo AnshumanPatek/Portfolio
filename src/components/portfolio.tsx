@@ -86,17 +86,26 @@ const PROJECTS: Project[] = [
 
 const EXPERIENCE: Experience[] = [
   {
-    title: "Senior Full Stack Developer",
+    title: "Full Stack Developer",
     company: "Inkepto Technologies",
     companyUrl: "https://www.inkepto.com/",
     location: "Remote",
-    period: "MAY 2025 — PRESENT",
+    period: "JAN 2026 — PRESENT",
     bullets: [
-      "Delivered end-to-end full stack solutions across multiple scalable products including web portals, e-commerce platforms, and HRMS systems.",
-      "Designed and developed 400+ reusable frontend components using modern frameworks, improving development efficiency and consistency.",
-      "Built and optimized robust backend APIs, ensuring high performance, scalability, and maintainability of applications.",
-      "Led a team of 5–10 developers, ensuring code quality, best practices, and timely project delivery.",
-      "Collaborated across teams to drive system architecture, feature planning, and seamless integration of frontend, backend, and DevOps workflows.",
+      "Worked on multiple scalable products including website portals, e-commerce platforms, and HRMS systems, delivering end-to-end full stack solutions and admin panels.",
+      "Built 300+ reusable frontend components and developed robust backend APIs, improving development speed and system scalability.",
+      "Led a team of 5–10 developers, driving project execution, code quality, and timely delivery across multiple projects.",
+    ],
+  },
+  {
+    title: "Full Stack Developer",
+    company: "PeerHire Technologies",
+    location: "Remote",
+    period: "MAY 2025 — NOV 2025",
+    bullets: [
+      "Developed responsive frontend screens using Next.js, managing end-to-end UI flows for authentication, onboarding, project listing, and user dashboards.",
+      "Integrated Google & LinkedIn OAuth and Persona KYC verification to ensure secure and seamless user experiences across all workflows.",
+      "Dockerized applications and set up GitHub Actions CI/CD pipelines, along with Nginx reverse proxy and Prometheus & Grafana for automated deployments, monitoring, and performance tracking.",
     ],
   },
   {
